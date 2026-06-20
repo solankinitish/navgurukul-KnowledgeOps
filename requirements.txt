@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pdfplumber
+pdf2image
+pytesseract
+chromadb
+sentence-transformers
+spacy
+groq
+streamlit
+python-dotenv
+python-multipart
+httpx
