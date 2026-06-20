@@ -2,6 +2,12 @@
 
 A RAG chatbot that ingests large PDF corpora (text + scanned/image pages) and answers questions with source citations, hybrid retrieval, and sub-2-second latency.
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-green)
+![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-orange)
+![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red)
+![Groq](https://img.shields.io/badge/LLM-Groq-purple)
+
 ---
 
 ## What it does
